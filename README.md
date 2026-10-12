@@ -1,3 +1,13 @@
+# fe-interview
+
+## What This Is
+
+We keep a working index for product and engineering, and fe-interview is the entry that collects our notes, examples and fixes. It reflects how Swift Tech Co. actually uses this in builds and client work.
+
+## Images
+
+[![fe-interview](images/preview.png)](https://github.com/Swift-Tech-Co)
+
 ## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
 > 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
 
@@ -146,3 +156,10 @@
 ### :copyright: License
 [![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
 
+## Sources
+
+Compiled and maintained from upstream [haizlin/fe-interview](https://github.com/haizlin/fe-interview) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
