@@ -6,7 +6,7 @@ We keep a working index for product and engineering, and fe-interview is the ent
 
 ## Images
 
-[![fe-interview](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![fe-interview](images/preview.png)](https://github.com/Swift-Tech-Co/fe-interview)
 
 ## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
 > 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
@@ -49,7 +49,6 @@ We keep a working index for product and engineering, and fe-interview is the ent
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
-
 ## :clock430: 今天的知识点   (2025.10.27) —— 第2386天  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [什么是TC39委员会？它在JavaScript标准制定中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6357)  
  
@@ -61,7 +60,6 @@ We keep a working index for product and engineering, and fe-interview is the ent
     :three: [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)  
     
     …………  
-
 
 - 第2385天 (2025.10.26)  
     	 :one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
@@ -155,6 +153,14 @@ We keep a working index for product and engineering, and fe-interview is the ent
 
 ### :copyright: License
 [![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+
+## Sources
+
+Compiled and maintained from upstream [haizlin/fe-interview](https://github.com/haizlin/fe-interview) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
